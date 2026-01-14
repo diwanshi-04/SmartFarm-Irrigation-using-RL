@@ -79,7 +79,7 @@ The DQN uses a neural network, replay buffer, epsilon-greedy exploration, and a 
 
 The actions the agent can take:
 
-markdown
+
 ---
 
 * 0 → No water
