@@ -155,11 +155,11 @@ You can read the complete paper here:
 
 \- NumPy  
 
-\- Pandas  
+* Pandas  
 
-\- Matplotlib  
+* Matplotlib  
 
-\- TensorFlow / PyTorch  
+* TensorFlow / PyTorch  
 
 
 ---
@@ -167,15 +167,15 @@ You can read the complete paper here:
 
 \## 📁 Project Files
 
-\- A1/ → Basic RL algorithms
+* A1/ → Basic RL algorithms
 
-\- A2/ → Data-driven environment using the dataset
+* A2/ → Data-driven environment using the dataset
 
-\- A3/ → DQN implementation
+* A3/ → DQN implementation
 
-\- data/ → Dataset used
+* data/ → Dataset used
 
-\- README.md → Project info
+* README.md → Project info
 
 
 ---
@@ -184,13 +184,13 @@ You can read the complete paper here:
 \## 📈 Key Achievements
 
 
-\- Improved moisture stability  
+*  Improved moisture stability  
 
-\- Reduced water wastage  
+*  Reduced water wastage  
 
-\- Crop \& soil personalized irrigation  
+*  Crop \& soil personalized irrigation  
 
-\- Adaptive decision making  
+* Adaptive decision making  
 
 
 ---
@@ -199,25 +199,22 @@ You can read the complete paper here:
 \## 👩‍💻 Team Members
 
 
-\- Diwanshi
-
-\- Harshada
-
-\- Diksha
-
+* Diksha
+* Diwanshi
+* Harshada
 
 ---
 
 
 \## ⭐ Future Scope
 
-\- IoT sensor integration  
+* IoT sensor integration  
 
-\- Real-time weather API  
+* Real-time weather API  
 
-\- Mobile app monitoring  
+* Mobile app monitoring  
 
-\- Cloud deployment  
+* Cloud deployment  
 
 
 ---
