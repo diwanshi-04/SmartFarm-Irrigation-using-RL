@@ -17,14 +17,13 @@ This project presents a \*\*Reinforcement Learning based Smart Irrigation System
 
 \## 📌 Project Objectives
 
+* Reduce water wastage  
 
-\- Reduce water wastage  
+* Maintain optimal soil moisture  
 
-\- Maintain optimal soil moisture  
+* Learn crop-specific irrigation strategies  
 
-\- Learn crop-specific irrigation strategies  
-
-\- Implement AI-driven precision agriculture  
+* Implement AI-driven precision agriculture  
 
 
 ---
@@ -38,15 +37,15 @@ This project presents a \*\*Reinforcement Learning based Smart Irrigation System
 
 In this part, I implemented simple RL methods like:
 
-\- Monte Carlo
+* Monte Carlo
 
-\- TD(0)
+* TD(0)
 
-\- SARSA
+* SARSA
 
-\- Q-Learning
+* Q-Learning
 
-\- This helped me understand how RL works and how an agent learns from rewards.
+* This helped me understand how RL works and how an agent learns from rewards.
 
 
 
@@ -80,19 +79,18 @@ The DQN uses a neural network, replay buffer, epsilon-greedy exploration, and a 
 
 The actions the agent can take:
 
-\- 0 → No water
+* 0 → No water
 
-\- 1 → Low
+* 1 → Low
 
-\- 2 → Medium
+* 2 → Medium
 
-\- 3 → High
+* 3 → High
 
 ---
 
 
 \## 🗂 Repository Structure
-
 
 rlaiproject
 
@@ -112,14 +110,10 @@ rlaiproject
 
 \## 📊 Output Results:
 
-
-DQN performs much better than simple RL
-
-Moisture stays stable
-
-Water usage goes down
-
-The agent learns when to irrigate and when not to
+* DQN performs much better than simple RL
+* Moisture stays stable
+* Water usage goes down
+* The agent learns when to irrigate and when not to
 
 
 
@@ -145,15 +139,15 @@ You can read the complete paper here:
 \## ⚙ Technologies Used
 
 
-\- Python  
+* Python  
 
-\- Reinforcement Learning  
+* Reinforcement Learning  
 
-\- Q-Learning  
+* Q-Learning  
 
-\- Deep Q-Network  
+* Deep Q-Network  
 
-\- NumPy  
+* NumPy  
 
 * Pandas  
 
