@@ -91,17 +91,13 @@ The actions the agent can take:
 
 
 \## 🗂 Repository Structure
-
-rlaiproject
----/
+```
 ├── code
 ├── data
 ├── research-paper
 ├── images
-└── README.md 
-
-
----
+└── README.md
+```
 
 
 \## 📊 Output Results:
