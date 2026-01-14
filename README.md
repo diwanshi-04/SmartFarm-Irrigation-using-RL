@@ -95,13 +95,9 @@ The actions the agent can take:
 rlaiproject
 
 ├── code
-
 ├── data
-
 ├── research-paper
-
 ├── images
-
 └── README.md 
 
 
